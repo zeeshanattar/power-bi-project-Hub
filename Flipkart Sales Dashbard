@@ -1,42 +1,42 @@
 -----flipkart-sales-dashboard
 
 -----1) project title : flipkart sales analytics
-flipkart sales analytics : A dynamic, interactive data visualization tool typically designed to give a bussiness team a 360 degree view of marketplace performance 
-and to explore on regional comparison which can suit different attributes , complexity and suitability of ecommerce business platforms. Short description/ purpose
+     flipkart sales analytics : A dynamic, interactive data visualization tool typically designed to give a bussiness team a 360 degree view of marketplace performance 
+     and to explore on regional comparison which can suit different attributes , complexity and suitability of ecommerce business platforms. Short description/ purpose
 
 
 -----2) Description / purpose
-the flipkart analytics is a visually engaging and analytical power bi report designed to help users explore and compare the sales fluctuation, the sales trend ,
-sales fluctuations in different regions and cities in various product categories , payment modes. 
-The dashboard focuses on highlighting major sales distribution and the marking of the peaks and the downfall over the monthly and quarterly basis. 
-This tool is intended for use by different business analyst for ecommerce platform to understand trend and characteristics of the sales comming from different categories ,
-mark the problem and take the data driven decisions.
+     the flipkart analytics is a visually engaging and analytical power bi report designed to help users explore and compare the sales fluctuation, the sales trend ,
+     sales fluctuations in different regions and cities in various product categories , payment modes. 
+     The dashboard focuses on highlighting major sales distribution and the marking of the peaks and the downfall over the monthly and quarterly basis. 
+     This tool is intended for use by different business analyst for ecommerce platform to understand trend and characteristics of the sales comming from different categories ,
+     mark the problem and take the data driven decisions.
 
 
 -----3) Tech Stack
-List of key technologies used to build the dashboard.
+     List of key technologies used to build the dashboard.
 
-Power BI Desktop: Main data visualization platform used for report creation.
+     Power BI Desktop: Main data visualization platform used for report creation.
 
-Power Query: Data transformation and cleaning layer for reshaping and preparing the data.
+     Power Query: Data transformation and cleaning layer for reshaping and preparing the data.
 
-DAX (Data Analysis Expressions): Used for calculated measures, dynamic visuals, and conditional logic.
+     DAX (Data Analysis Expressions): Used for calculated measures, dynamic visuals, and conditional logic.
 
-Data Modeling: Relationships established among tables to enable cross-filtering and aggregation.
+     Data Modeling: Relationships established among tables to enable cross-filtering and aggregation.
 
-File Format: .pbix for development and .png for dashboard previews
+     File Format: .pbix for development and .png for dashboard previews
 
 -----4) Data source
-This dashboard is built using sample/synthetic e-commerce data modeled to represent Flipkart-like operations.
+     This dashboard is built using sample/synthetic e-commerce data modeled to represent Flipkart-like operations.
 
 
 -----5) Features / Highlights: Dashboard Explation
 -----5.1) Business problem :
-   To mark the reason for the considerable downfall of the sales and the profit in the month of april to july.
+     To mark the reason for the considerable downfall of the sales and the profit in the month of april to july.
 
 
 -----5.2) Goal of the dashboard :
-   To design an interactive Power BI dashboard that analyzes Flipkart sales data to track performance, identify trends, and support data-driven business decisions.
+     To design an interactive Power BI dashboard that analyzes Flipkart sales data to track performance, identify trends, and support data-driven business decisions.
 
 -----5.3) walk through key visuals :
     The purpose of making an “Amount by Category” donut chart is to visually show how total sales (amount) are distributed across different product categories in a clear and intuitive    
@@ -73,7 +73,7 @@ This dashboard is built using sample/synthetic e-commerce data modeled to repres
    the total number of customers as a key performance indicator for monitoring customer reach and growth.
 
    The purpose of making a slicer for City is to allow users to filter and analyze sales data by specific cities, making the dashboard interactive and focused and to filter and analyze sales 
-  data by city, enabling interactive and region-specific insights.
+   data by city, enabling interactive and region-specific insights.
 
    The purpose of making a slicer for Order Date is to allow users to filter and analyze sales data over specific time periods, enabling temporal insights and trend analysis and to filter 
    and analyze sales data by order date, enabling interactive exploration of trends and period-specific performance.
