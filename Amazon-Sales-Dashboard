@@ -1,80 +1,80 @@
 ----- Amazon-Sales-Dashboard
 
 ----- 1)Project Title
-Amazon Sales Dashboard to give sellers a clear, real-time view of business performance so they can make faster, data-driven decisions.
+      Amazon Sales Dashboard to give sellers a clear, real-time view of business performance so they can make faster, data-driven decisions.
 
 
 -----2) Purpose
-dashboard transforms raw sales data into actionable insights, helping sellers increase revenue, improve profitability, and scale efficiently.
+     dashboard transforms raw sales data into actionable insights, helping sellers increase revenue, improve profitability, and scale efficiently.
 
 
 -----3) Tech Stack
-The dashboard was built using the following tools and technologies:
+     The dashboard was built using the following tools and technologies:
 
-Power BI Desktop: Main data visualization platform used for report creation.
+    Power BI Desktop: Main data visualization platform used for report creation.
 
-Power Query: Data transformation and cleaning layer for reshaping and preparing the data.
+    Power Query: Data transformation and cleaning layer for reshaping and preparing the data.
 
-DAX (Data Analysis Expressions): Used for calculated measures, dynamic visuals, and conditional logic.
+    DAX (Data Analysis Expressions): Used for calculated measures, dynamic visuals, and conditional logic.
 
-Data Modeling: Relationships established among tables to enable cross-filtering and aggregation.
+    Data Modeling: Relationships established among tables to enable cross-filtering and aggregation.
 
-File Format: .pbix for development and .png for dashboard previews
+    File Format: .pbix for development and .png for dashboard previews
 
 
 -----4) Data Source
-This dashboard is built using sample/synthetic e-commerce data modeled to represent Amazon-like operations.
+     This dashboard is built using sample/synthetic e-commerce data modeled to represent Amazon-like operations.
 
 
 -----5) Features and Highlights
 -----5.1) Bussiness Problem
-This Amazon sales dashboard is to solve business problem of data fragmentation and lack of actionable insight, enabling sellers to control performance, reduce losses, 
-and grow profitably.
+     This Amazon sales dashboard is to solve business problem of data fragmentation and lack of actionable insight, enabling sellers to control performance, reduce losses, 
+     and grow profitably.
 
 
 -----5.2) Goal Of The DashBoard
-The goal of this Amazon sales dashboard is to turn Amazon sales data into clear insights that drive smarter decisions, higher sales, and sustainable business growth.
+     The goal of this Amazon sales dashboard is to turn Amazon sales data into clear insights that drive smarter decisions, higher sales, and sustainable business growth.
 
 -----5.3) Walk Through The Key Visuals
-The purpose of creating a Total Customers KPI is to measure the size and growth of a business’s customer base, which is essential for evaluating market reach and long-term sustainability.
+     The purpose of creating a Total Customers KPI is to measure the size and growth of a business’s customer base, which is essential for evaluating market reach and long-term sustainability.
 
-The purpose of a Sales KPI is to quantify sales success and guide actions that increase revenue and business growth.
+     The purpose of a Sales KPI is to quantify sales success and guide actions that increase revenue and business growth.
 
-The purpose of creating a Profit KPI is to measure how much value the business actually earns after costs, ensuring that growth is sustainable and financially healthy.
+     The purpose of creating a Profit KPI is to measure how much value the business actually earns after costs, ensuring that growth is sustainable and financially healthy.
 
-The purpose of creating an Orders KPI is to measure sales activity and demand volume, helping businesses understand how often customers are placing purchases 
-and how efficiently orders are being processed.
+     The purpose of creating an Orders KPI is to measure sales activity and demand volume, helping businesses understand how often customers are placing purchases 
+     and how efficiently orders are being processed.
 
-The purpose of making a Top 5 Profitable Sub-Categories clustered bar chart is to visually compare and highlight the sub-categories that contribute the most profit, 
-enabling quick and informed business decisions.
+     The purpose of making a Top 5 Profitable Sub-Categories clustered bar chart is to visually compare and highlight the sub-categories that contribute the most profit, 
+     enabling quick and informed business decisions.
 
-The purpose of making a Sales by Category clustered bar chart is to compare sales performance across different product categories clearly and effectively, 
-helping stakeholders identify strengths, weaknesses, and opportunities.
+     The purpose of making a Sales by Category clustered bar chart is to compare sales performance across different product categories clearly and effectively, 
+     helping stakeholders identify strengths, weaknesses, and opportunities.
 
-The purpose of a Monthly Sales per Year line chart is to visualize sales performance over time, identify seasonal patterns, 
-and compare year-over-year growth to support better business decisions.
+     The purpose of a Monthly Sales per Year line chart is to visualize sales performance over time, identify seasonal patterns, 
+     and compare year-over-year growth to support better business decisions.
 
-The purpose of making an Average Profit and Sales per Quarter clustered column chart is to compare profitability and sales performance across quarters in a clear, visual way, 
-helping businesses track performance, spot trends, and make strategic decisions.
+     The purpose of making an Average Profit and Sales per Quarter clustered column chart is to compare profitability and sales performance across quarters in a clear, visual way, 
+     helping businesses track performance, spot trends, and make strategic decisions.
 
-The purpose of a Region Slicer is to enable dynamic filtering and regional analysis, helping businesses make geographically informed decisions efficiently.
+     The purpose of a Region Slicer is to enable dynamic filtering and regional analysis, helping businesses make geographically informed decisions efficiently.
 
-The purpose of an Orders by Payment Mode pie chart is to visually represent the distribution of orders by payment type, helping businesses understand customer preferences 
-and optimize payment operations.
+     The purpose of an Orders by Payment Mode pie chart is to visually represent the distribution of orders by payment type, helping businesses understand customer preferences 
+     and optimize payment operations.
 
-The purpose of a Return Status pie chart is to show the distribution of order returns and completion status, helping businesses track returns and improve customer satisfaction 
-and operations.
+     The purpose of a Return Status pie chart is to show the distribution of order returns and completion status, helping businesses track returns and improve customer satisfaction 
+     and operations.
 
-The purpose of making a Geo-Distribution Map is to visually display where your customers, sales, or other business activities are located geographically, 
-helping businesses make region-specific decisions.
+     The purpose of making a Geo-Distribution Map is to visually display where your customers, sales, or other business activities are located geographically, 
+     helping businesses make region-specific decisions.
 
-The purpose of making a Profit by Category pie chart is to visually show how total profit is distributed across different product categories,
-helping businesses identify which categories contribute most to profitability.
+     The purpose of making a Profit by Category pie chart is to visually show how total profit is distributed across different product categories,
+     helping businesses identify which categories contribute most to profitability.
 
-The purpose of a Cities by Sales treemap is to visually compare sales across cities, making it easier to identify high-value markets and opportunities for growth.
+     The purpose of a Cities by Sales treemap is to visually compare sales across cities, making it easier to identify high-value markets and opportunities for growth.
 
 
 -----5.4) Bussiness Impact And Insight
-This Dashboards make business monitoring faster, more accurate, and actionable.They reveal trends, opportunities, and problems that help optimize sales, profit, and operations.
+     This Dashboards make business monitoring faster, more accurate, and actionable.They reveal trends, opportunities, and problems that help optimize sales, profit, and operations.
 
 -----6) Screenshot For Demo
